@@ -42,7 +42,7 @@ Integer i = (Integer) list.get(2); // 컴파일 OK but 실행하면 ClassCastExc
 
 제네릭 클래스를 생성할 때 무조건 제네릭을 설정해줘야한다 - jdk1.5 이후
 
-![generics1](../img/generics.png)
+![generics1](../../resources/img/generics.png)
 
 예외 ⇒ Runtime error ( 실행 중 발생에러 )
 

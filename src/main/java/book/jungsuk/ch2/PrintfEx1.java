@@ -1,4 +1,4 @@
-package book.ch2;
+package book.jungsuk.ch2;
 
 public class PrintfEx1 {
     public static void main(String[] args) {

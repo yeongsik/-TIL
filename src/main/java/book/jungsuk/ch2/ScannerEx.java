@@ -1,4 +1,4 @@
-package book.ch2;
+package book.jungsuk.ch2;
 
 import java.util.Scanner;
 

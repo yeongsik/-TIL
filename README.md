@@ -1,2 +1,2 @@
-# back-to-basic-java
+# TIL
 자바 기초 공부

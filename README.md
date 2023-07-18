@@ -1,9 +1,1 @@
-# TIL
-
-## Java 
-
-## OS 
-
-## Network
-
-## Database
+# Today I Learned

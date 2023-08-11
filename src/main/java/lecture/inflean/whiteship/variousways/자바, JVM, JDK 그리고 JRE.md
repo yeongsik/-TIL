@@ -1,7 +1,6 @@
 # 자바, JVM, JDK 그리고 JRE
 
-![jvm](../../../resources/img/jvm.png)
-
+![jvm](./jvm.png)
 ### JVM (Java Virtual Machine)
 
 - 자바 가상 머신
